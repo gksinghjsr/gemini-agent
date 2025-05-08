@@ -6,7 +6,7 @@ A Go application that creates an interactive chat interface with Google's Gemini
 
 1. Clone the repo
    ```bash
-   git clone https://gitlab.booking.com/gysingh/gemini-agent.git
+   git clone https://github.com/gksinghjsr/gemini-agent.git
    ```
 
 2. Navigate to the project directory
